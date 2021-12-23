@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-My name is Kellie Kumasaka and I'm a web developer, anime-watcher, and music-lover!
+### My name is Kellie Kumasaka and I'm a web developer, anime-watcher, and music-lover!
 
 - 🌱 Learning Python and maintaining my JavaScript skills with side projects
 - 👩🏻‍💻 Hoping to work with a team of passionate, curious, and motivated engineers
