@@ -1,4 +1,4 @@
-### Hi there 👋🏻
+# Hi there 👋🏻
 
 My name is Kellie Kumasaka and I'm a web developer, anime-watcher, and music-lover!
 
