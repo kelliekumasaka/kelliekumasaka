@@ -4,7 +4,7 @@
 
 - 🌱 Learning Python and maintaining my JavaScript skills with side projects
 - 👩🏻‍💻 Hoping to work with a team of passionate, curious, and motivated engineers
-- 💜 Love traveling, drinking coffee and journaling
+- 💜 Have a love for traveling, drinking coffee, and journaling
 - 👀 Fun fact: I lived in Tokyo for over 3 years (ask me for travel recs!)
 - 📫 Let's connect! Shoot me an email at [kelliek3@gmail.com](mailto:kelliek3@gmail.com)
 
