@@ -2,7 +2,7 @@
 
 ### My name is Kellie Kumasaka and I'm a web developer, anime-watcher, and music-lover!
 
-- 🌱 Learning Python and maintaining my JavaScript skills with side projects
+- 🌱 Learning Java and maintaining my JavaScript skills with side projects
 - 👩🏻‍💻 Hoping to work with a team of passionate, curious, and motivated engineers
 - 💜 Have a love for traveling, drinking coffee, and journaling
 - 👀 Fun fact: I lived in Tokyo for over 3 years (ask me for Asia travel recs!)
